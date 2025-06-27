@@ -1,0 +1,44 @@
+# Python virtual environment
+venv/
+.env
+# If you use a different name for your virtual environment, add it here
+# .venv/
+# env/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (if large and not needed for the project)
+data/
+*.csv
+*.xlsx
+
+# Other files to ignore
+.DS_Store  # macOS specific
+Thumbs.db  # Windows specific
