@@ -4,3 +4,5 @@ numpy
 plotly
 requests
 python-dotenv
+ibm_watsonx_ai
+ibm-watson-machine-learning
